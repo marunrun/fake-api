@@ -1,53 +1,51 @@
 {
-    "posts":[
+    "posts": [
         {
-            "id":1,
-            "title":"Post 1"
+            "id": 1,
+            "title": "Post 1"
         },
         {
-            "id":2,
-            "title":"Post 2"
+            "id": 2,
+            "title": "Post 2"
         },
         {
-            "id":3,
-            "title":"Post 3"
+            "id": 3,
+            "title": "Post 3"
         }
     ],
-    "comments":[
+    "comments": [
         {
-            "id":1,
-            "body":"some comment",
-            "postId":1
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
         },
         {
-            "id":2,
-            "body":"some comment",
-            "postId":1
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
         }
     ],
-    "profile":{
-        "name":"typicode"
+    "profile": {
+        "name": "typicode"
     },
-    "users":[
+    "users": [
         {
-            "id":"3830",
-            "amount":123.12
+            "id": "3830",
+            "amount": 123.12
         }
     ],
-    "userString" : {
-        "id" :"2764,3830"
+    "userString": {
+        "id": "2764,3830"
     },
-    "chekcin":
-    {
-    "f": 1,
-    "m": "操作成功",
-    "d": [
-        {
-            "UserID": 3380,
-            "WorkBegin": "2023-05-16 14:00"
-        }
-    ],
-    "e": null
-}
-    
+    "chekcin": {
+        "f": 1,
+        "m": "操作成功",
+        "d": [
+            {
+                "UserID": 3380,
+                "WorkBegin": "2023-05-16 14:00"
+            }
+        ],
+        "e": null
+    }
 }
