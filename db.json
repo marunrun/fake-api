@@ -34,6 +34,9 @@
             "amount":123.12
         }
     ],
+    "userString" : {
+        "id" :"2764,3830"
+    }
     "chekcin":
     {
     "f": 1,
